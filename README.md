@@ -1,10 +1,9 @@
-# Hi, I'm cocoa6874!
-Githubではなくcodebergを使用しています。  
+# Hi, I'm cocoa6874!  
 趣味で個人開発してます。
 ### Tech Stack & Tools
-- **言語** python / C++ / Web系
-- **エディタ** Neovim
-- **お気に入りテーマ** Catppuccin
+- **Language** python / C++ / Web系
+- **Editor** Neovim
+- **Favorite theme** Catppuccin
 
 ### Currently Working On
 - Discord Bot作成
