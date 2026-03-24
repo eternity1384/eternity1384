@@ -18,7 +18,7 @@ Githubではなくcodebergを使用しています。
 - [Blog](blog.eternitysystem.net)
 
 <div align="center">
-  <img src="https://wakatime.com/share/@58ef7277-4563-4699-9339-b85b82959213/46ff7f54-be3a-410b-ad51-21ed259170ff.svg" width="48%" />
+  <img src="https://wakatime.com/share/@58ef7277-4563-4699-9339-b85b82959213/3a46df82-ab7d-46ad-8d22-da96bd6c6174.svg" width="48%" />
   
-  <img src="https://wakatime.com/share/@58ef7277-4563-4699-9339-b85b82959213/abb9c7e9-d6cb-4ae0-95fc-74e76427355e.svg" width="48%" />
+  <img src="https://wakatime.com/share/@58ef7277-4563-4699-9339-b85b82959213/e7dd0d3a-588a-4944-aceb-67443014e5e6.svg" width="48%" />
 </div>
